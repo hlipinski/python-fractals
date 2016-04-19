@@ -30,4 +30,4 @@ size = 400
 im = Image.new("RGB", (size, size))
 
 render_fractal()
-im.save("mandelbrot.png", "PNG")
+im.save("output/mandelbrot.png", "PNG")

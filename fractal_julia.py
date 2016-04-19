@@ -30,4 +30,4 @@ size = 400
 im = Image.new("RGB", (size, size))
 
 render_fractal()
-im.save("julia.png", "PNG")
+im.save("output/julia.png", "PNG")

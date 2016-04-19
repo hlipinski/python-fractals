@@ -1,6 +1,4 @@
-__author__ = 'hlp'
-
-import sys
+import sys, os
 
 def get_level_input():
     try:
@@ -14,3 +12,5 @@ def get_const_input():
     except IndexError:
         return 0
 
+if not os.path.exists("output/"):
+    os.makedirs("output/")

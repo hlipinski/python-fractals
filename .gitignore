@@ -1,0 +1,8 @@
+# Images
+output/
+
+# Libs
+*.pyc
+
+# Mac
+.DS_Store
