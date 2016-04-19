@@ -1,5 +1,3 @@
-__author__ = 'hlp'
-
 from PIL import Image
 import utils
 

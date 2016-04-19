@@ -1,5 +1,5 @@
 # python-fractals
-Simple fractals implementations in python
+Simple fractals implementation in python
 
 ## Run with:
 
